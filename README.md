@@ -1,5 +1,8 @@
 # gRPC on Node.js
 
+> [!IMPORTANT]
+> **This fork removes proto-loader from grpc-js dependencies.**
+
 ## Implementations
 
 For a comparison of the features available in these two libraries, see [this document](https://github.com/grpc/grpc-node/tree/master/PACKAGE-COMPARISON.md)
